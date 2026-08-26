@@ -19,4 +19,4 @@ jobs:
           node-version: "24"
 
       - name: introspection check
-        run: npx -y -p @introspection-ai/cli introspection check
+        run: npx -y -p @introspection-ai/cli@0.32.0 introspection check --work-dir . --output table --non-interactive
