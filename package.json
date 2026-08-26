@@ -11,7 +11,7 @@
     "test": "node --import tsx --test tests/*.test.ts"
   },
   "dependencies": {
-    "@introspection-ai/recipes": "^0.14.1",
+    "@introspection-ai/recipes": "^0.21.0",
     "node-pty": "^1.1.0"
   },
   "devDependencies": {
