@@ -29,3 +29,6 @@ pnpm-debug.log*
 dist/
 .env
 .env.*
+
+# Secrets and local state. `introspection dev` stages with `git add -A`.
+.introspection/local.json
