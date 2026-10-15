@@ -1,7 +1,7 @@
 {
   "name": "@introspection-recipes/pi-codex",
   "version": "0.1.1",
-  "description": "OpenAI Codex CLI harness reproduced as an Introspection (Pi) recipe — a pi-codex starter template.",
+  "description": "OpenAI Codex CLI harness reproduced as an Introspection (Pi) recipe \u2014 a pi-codex starter template.",
   "type": "module",
   "private": true,
   "license": "Apache-2.0",
